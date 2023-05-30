@@ -37,4 +37,4 @@ I am proficient in a variety of technologies including:
 
 ## Contact Me
 
-The best way to reach me is through email at [info@robotcandy.nl](mailto:info@robotcandy.nl).
+The best way to reach me is through email at [info@robotcandy.nl](mailto:info@robotcandy.nl)
